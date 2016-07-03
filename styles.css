@@ -8,9 +8,19 @@ footer {
 }
 h1 {
 	color: red;
+	font-family: Arial, sans-serif;
 }
 section {
 	margin: 0 auto;
 	padding: 2em;
 	border: 1px solid black;
+}
+.container {
+	text-align: center;
+	margin: 0 auto;
+	width: 80%;
+	padding: 3em 1em;
+}
+li {
+	color: purple;
 }
